@@ -12,9 +12,9 @@ Recommendation Algorithm: Employs collaborative filtering or content-based filte
 Interactive Interface: Built using Streamlit for user-friendly job search and filtering options.
 
 *Technologies:*
-1.Python
-2.NLP (spaCy/TF-IDF)
-3.Machine Learning (Scikit-learn)
-4.Streamlit (for UI)
-5.Pandas, Numpy (for data manipulation)
+1.Python  
+2.NLP (spaCy/TF-IDF)  
+3.Machine Learning (Scikit-learn)  
+4.Streamlit (for UI)  
+5.Pandas, Numpy (for data manipulation)  
 6.Git for version control
